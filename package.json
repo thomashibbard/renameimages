@@ -1,0 +1,23 @@
+{
+  "name": "imagerename",
+  "version": "0.0.0",
+  "description": "rename image files to be unique based on their parent 'size' directory",
+  "main": "rename.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomashibbard/renameimages.git"
+  },
+  "author": "thomas hibbard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomashibbard/renameimages/issues"
+  },
+  "homepage": "https://github.com/thomashibbard/renameimages#readme",
+  "dependencies": {
+    "async": "^1.5.2",
+    "fs-extra": "^0.26.4"
+  }
+}
